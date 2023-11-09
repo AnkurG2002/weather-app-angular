@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Steps
 
-1. clone the project locally -> cd Angular-Clone
-2. Then, run the git clone command to copy the project to your folder.
-3. Install npm packages -> npm install
+1. Install Angular CLI -> npm install -g @angular/cli@15.0.1
+2. create a folder, cd into it
+3. Then, run the git clone command to copy the project to your folder -> https://github.com/AnkurG2002/weather-app-angular.git
 4. open browser -> ng serve
 
 ## Development server
