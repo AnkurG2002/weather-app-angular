@@ -1,0 +1,25 @@
+.container {
+  display: block;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  background: linear-gradient(
+    180deg,
+    rgb(60, 150, 142) 0%,
+    rgba(8, 7, 42, 1) 75%,
+    rgb(8, 10, 63) 100%
+  );
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.row {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
